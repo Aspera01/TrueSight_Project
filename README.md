@@ -1,5 +1,4 @@
-# Deepfake Detector
-
+# TrueSight
 An open-source, fully offline desktop application for detecting deepfakes in images, videos, and audio files using a modular AI pipeline.
 
 **License:** MIT  
